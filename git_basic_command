@@ -79,3 +79,8 @@ PUSHING BRANCH
     git push origin <feature>
 
 MARGING BRANCH TO MAIN
+
+
+DOWNLOADING MAIN BRANCH IN LOCAL MACHINE
+
+    git pull origin main
