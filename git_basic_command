@@ -84,7 +84,7 @@ git diff <branch name>
 git merge main (merging feature to main or branch to main)
 
 OR PR REVIEW
-SOME DEVELOPER IS REQUESTING TO MARGE handles in browser
+    SOME DEVELOPER IS REQUESTING TO MARGE handles in browser
 
 
 
