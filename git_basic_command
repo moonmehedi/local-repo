@@ -1,0 +1,42 @@
+git clone https://github.com/moonmehedi/Moon.git
+
+
+cd .\Moon.\ moving //terminal inside folder
+
+git status //tells status about the project
+
+change something in project and run thus code
+
+as i modified a file now i have to follow 2 step process 
+1/add
+2/commit
+
+
+3 types of files
+1/untracked: new file that git does not yet track
+2/modified: changed file
+
+3/staged: file is ready to be committed
+4/unmodified: unchanged
+
+
+add command:adds new or changed file
+    git add <file name>
+
+    git add . //will add all files
+
+commit : it is the record of change
+    git commit -m "some message related to commit"
+
+this will save the changes in local machine
+to make it visible in git hub we have to use push
+
+
+push : upload local repo content to remote repo
+    git push origin name
+
+now if we refresh our browser we will see the changes it our github
+
+adding repositories to git
+
+init command:
