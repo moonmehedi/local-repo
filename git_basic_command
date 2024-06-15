@@ -79,3 +79,9 @@ PUSHING BRANCH
     git push origin <feature>
 
 MARGING BRANCH TO MAIN
+difference between branches
+git diff <branch name>
+git merge main (merging feature to main or branch to main)
+
+OR PR REVIEW
+SOME DEVELOPER IS REQUESTING TO MARGE
