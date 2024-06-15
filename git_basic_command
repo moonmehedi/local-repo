@@ -39,4 +39,43 @@ now if we refresh our browser we will see the changes it our github
 
 adding repositories to git
 
-init command:
+init command: making current a folder a git repo
+    git init
+
+git remote add origin <link> //adding origin or repo for the project
+
+adding origin for this project
+seeing the current repo or origin
+
+git remote -v
+
+git branch : tells about the branch name
+
+git branch -M main :rename branch to main
+
+
+workflop
+
+first create a file on github
+make clone
+do change
+add
+commit
+
+CREATING NEW BRANCH
+git checkout -b <branch name>
+{branchers are clones of project people(developed designer etc) will create their branch and work on it later they can merge their branch}
+
+
+MOVING TO ANOTHER BRANCH
+git checkout <branch name>
+
+
+DELETING A BRANCH
+git branch -d <branch name>
+
+PUSHING BRANCH
+    git push origin <branch name>
+    git push origin <feature>
+
+MARGING BRANCH TO MAIN
