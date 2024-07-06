@@ -3,9 +3,21 @@ git clone https://github.com/moonmehedi/Moon.git
 
 cd .\Moon.\ moving //terminal inside folder
 
+dir -Force //tells if git supported in this folder
+
 git status //tells status about the project
 
 change something in project and run thus code
+
+4 types of files
+UNTRACKED: new file that git does not yet track
+modified: changed file
+staged: file is ready to be committed
+unmodified: unchanged
+
+
+
+
 
 as i modified a file now i have to follow 2 step process 
 1/add
